@@ -1,0 +1,20 @@
+{
+  "name": "stories",
+  "description": null,
+  "type": "azureblob",
+  "subtype": null,
+  "credentials": {
+    "connectionString": "ResourceId=${STORAGE_ACCOUNT_ID};"
+  },
+  "container": {
+    "name": "search-content",
+    "query": ""
+  },
+  "dataChangeDetectionPolicy": null,
+  "dataDeletionDetectionPolicy": null,
+  "encryptionKey": null,
+  "identity": {
+    "@odata.type": "#Microsoft.Azure.Search.DataUserAssignedIdentity",
+    "userAssignedIdentity": "${SEARCH_SERVICE_IDENTITY_ID}"
+  }
+}

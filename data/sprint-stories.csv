@@ -1,0 +1,11 @@
+﻿id,work_item_type,title,assigned_to,state,tags
+1,User Story,SPIKE: Research a no SQL database and connectivity to kubernetes clusters,Lewis Smith,Closed,
+2,User Story,SPIKE: Determine how to capture network data from devices,Jane Gibson,Closed,
+3,User Story,Create a deployment service to install basic helm charts,Andy Jones,Closed,
+4,User Story,Update the UI to respond to upload success/failures,Adam Spencer,Closed,
+5,User Story,The user details page doesn't work when a name contains a hypen,Mel Bloggs,Closed,
+6,User Story,Allow custom integration endpoints to be configured.,Simon Edwards,Closed,
+7,User Story,Ability to edit service config settings in UI,Bert Reynolds,Closed,
+8,User Story,Persist config to ephemeral volume,Simon Edwards,Closed,
+9,User Story,Ensure message logging is consistent,Jane Gibson,Closed,
+10,User Story,Regression testing documentation,Jane Gibson,Closed,

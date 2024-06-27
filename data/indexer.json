@@ -1,0 +1,23 @@
+{
+    "name": "stories-indexer",
+    "description": null,
+    "dataSourceName": "stories",
+    "skillsetName": null,
+    "targetIndexName": "stories",
+    "disabled": null,
+    "schedule": null,
+    "parameters": {
+      "batchSize": null,
+      "maxFailedItems": null,
+      "maxFailedItemsPerBatch": null,
+      "base64EncodeKeys": null,
+      "configuration": {
+        "parsingMode": "delimitedText",
+        "firstLineContainsHeaders": true
+      }
+    },
+    "fieldMappings": [],
+    "outputFieldMappings": [],
+    "cache": null,
+    "encryptionKey": null
+  }
